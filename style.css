@@ -6,7 +6,7 @@
 
       body {
         
-        background-image: url("/resources/Background_image@2x.png");
+        background-image: url("resources/Background_image@2x.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
