@@ -34,14 +34,13 @@ I have enjoyed building this simple website, it helped me practicing some CSS  p
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Feedback 
-I will be happy to get your feedback [here] (https://devchallenges.io/profile/9b9f2a2a-f1aa-43fd-ab7b-68c860f8a619)
+I will be happy to get your feedback [Here](https://devchallenges.io/profile/9b9f2a2a-f1aa-43fd-ab7b-68c860f8a619)
 That help my improvment!!🙌 📝
 
 ## Author
